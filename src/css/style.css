@@ -7,6 +7,16 @@
   text-align: center;
 }
 
+/* .titleH4 {
+  color: red;
+  text-align: center;
+} */
+
+.titleH3 {
+  color: red;
+  text-align: center;
+}
+
 .field-game {
   width: 450px;
   display: flex;
